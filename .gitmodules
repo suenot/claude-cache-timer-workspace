@@ -1,0 +1,6 @@
+[submodule "claude-cache-timer"]
+	path = claude-cache-timer
+	url = https://github.com/suenot/claude-cache-timer.git
+[submodule "claude-cache-timer-website"]
+	path = claude-cache-timer-website
+	url = https://github.com/suenot/claude-cache-timer-website.git
